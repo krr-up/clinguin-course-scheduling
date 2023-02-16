@@ -6,4 +6,4 @@ dependencies:
   - python=3.9
   - clingo
   - pip:
-    - git+https://github.com/krr-up/clinguin.git
+    - git+https://github.com/potassco/clinguin.git
