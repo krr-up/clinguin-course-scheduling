@@ -1,6 +1,6 @@
 # Student project on course scheduling
 
-The project is based on [*clingun*](https://github.com/krr-up/clinguin)
+The project is based on [*clinguin*](https://github.com/krr-up/clinguin)
 
 ## Install
 
